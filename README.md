@@ -1,10 +1,90 @@
 # learn-gradle
-
+##  Gradle User Guide
 https://docs.gradle.org/4.0.1/userguide/userguide.html
-
-## Basics
-
-## Installation
-
-
-
+Table of Contents
+- [x] I. About Gradle
+- [x] 1. Introduction
+- [x] 2. Overview
+- [x] II. Working with existing builds
+- [x] 3. Installing Gradle
+- [ ] 4. Using the Gradle Command-Line
+- [ ] 5. The Gradle Console
+- [ ] 6. The Gradle Wrapper
+- [ ] 7. The Gradle Daemon
+- [ ] 8. Dependency Management Basics
+- [ ] 9. Introduction to multi-project builds
+- [ ] 10. Continuous build
+- [ ] 11. Composite builds
+- [ ] 12. The Build Environment
+- [ ] 13. Troubleshooting
+- [ ] 14. Embedding Gradle using the Tooling API
+- [ ] 15. Build Cache
+- [ ] III. Writing Gradle build scripts
+- [ ] 16. Build Script Basics
+- [ ] 17. Build Init Plugin
+- [ ] 18. Writing Build Scripts
+- [ ] 19. More about Tasks
+- [ ] 20. Working With Files
+- [ ] 21. Using Ant from Gradle
+- [ ] 22. The Build Lifecycle
+- [ ] 23. Wrapper Plugin
+- [ ] 24. Logging
+- [ ] 25. Dependency Management
+- [ ] 26. Multi-project Builds
+- [ ] 27. Gradle Plugins
+- [ ] 28. Standard Gradle plugins
+- [ ] 29. The Project Report Plugin
+- [ ] 30. The Build Dashboard Plugin
+- [ ] 31. Comparing Builds
+- [ ] 32. Publishing artifacts
+- [ ] 33. The Maven Plugin
+- [ ] 34. The Signing Plugin
+- [ ] 35. Ivy Publishing (new)
+- [ ] 36. Maven Publishing (new)
+- [ ] 37. The Distribution Plugin
+- [ ] 38. The Announce Plugin
+- [ ] 39. The Build Announcements Plugin
+- [ ] IV. Extending the build
+- [ ] 40. Writing Custom Task Classes
+- [ ] 41. Writing Custom Plugins
+- [ ] 42. The Java Gradle Plugin Development Plugin
+- [ ] 43. Organizing Build Logic
+- [ ] 44. Initialization Scripts
+- [ ] 45. The Gradle TestKit
+- [ ] V. Building JVM projects
+- [ ] 46. Java Quickstart
+- [ ] 47. The Java Plugin
+- [ ] 48. The Java Library Plugin
+- [ ] 49. Web Application Quickstart
+- [ ] 50. The War Plugin
+- [ ] 51. The Ear Plugin
+- [ ] 52. The Application Plugin
+- [ ] 53. The Java Library Distribution Plugin
+- [ ] 54. Groovy Quickstart
+- [ ] 55. The Groovy Plugin
+- [ ] 56. The Scala Plugin
+- [ ] 57. The ANTLR Plugin
+- [ ] 58. The Checkstyle Plugin
+- [ ] 59. The CodeNarc Plugin
+- [ ] 60. The FindBugs Plugin
+- [ ] 61. The JDepend Plugin
+- [ ] 62. The PMD Plugin
+- [ ] 63. The JaCoCo Plugin
+- [ ] 64. The OSGi Plugin
+- [ ] 65. The Eclipse Plugins
+- [ ] 66. The IDEA Plugin
+- [ ] VI. The Software model
+- [ ] 67. Rule based model configuration
+- [ ] 68. Software model concepts
+- [ ] 69. Implementing model rules in a plugin
+- [ ] 70. Building Java Libraries
+- [ ] 71. Building Play applications
+- [ ] 72. Building native software
+- [ ] 73. Extending the software model
+- [ ] VII. Appendix
+- [ ] A. Gradle Samples
+- [ ] B. Potential Traps
+- [ ] C. The Feature Lifecycle
+- [ ] D. Gradle Command Line
+- [ ] E. Documentation licenses
+- [ ] Glossary
