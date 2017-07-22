@@ -1,6 +1,7 @@
 # learn-gradle
 ##  Gradle User Guide
 https://docs.gradle.org/4.0.1/userguide/userguide.html
+
 Table of Contents
 - [x] I. About Gradle
 - [x] 1. Introduction
