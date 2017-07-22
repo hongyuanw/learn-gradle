@@ -7,8 +7,7 @@ Table of Contents
 - [x] 2. Overview
 - [x] II. Working with existing builds
 - [x] 3. Installing Gradle
-- [ ] 4. Using the Gradle Command-Line
-	- [4.5. Selecting which build to execute](https://docs.gradle.org/4.0.1/userguide/tutorial_gradle_command_line.html#sec:selecting_build)
+- [x] 4. Using the Gradle Command-Line
 - [ ] 5. The Gradle Console
 - [ ] 6. The Gradle Wrapper
 - [ ] 7. The Gradle Daemon
