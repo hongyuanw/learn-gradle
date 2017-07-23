@@ -9,7 +9,7 @@ Table of Contents
 - [x] II. Working with existing builds
 - [x] 3. Installing Gradle
 - [x] 4. Using the Gradle Command-Line
-- [ ] 5. The Gradle Console
+- [x] 5. The Gradle Console
 - [ ] 6. The Gradle Wrapper
 - [ ] 7. The Gradle Daemon
 - [ ] 8. Dependency Management Basics
