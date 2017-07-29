@@ -11,7 +11,7 @@ Table of Contents
 - [x] 4. Using the Gradle Command-Line
 - [x] 5. The Gradle Console
 - [x] 6. The Gradle Wrapper
-- [ ] 7. The Gradle Daemon
+- [x] 7. The Gradle Daemon
 - [ ] 8. Dependency Management Basics
 - [ ] 9. Introduction to multi-project builds
 - [ ] 10. Continuous build
