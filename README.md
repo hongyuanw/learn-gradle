@@ -13,6 +13,14 @@ Table of Contents
 - [x] 6. The Gradle Wrapper
 - [x] 7. The Gradle Daemon
 - [ ] 8. Dependency Management Basics
+ - [ ] 8.1. What is dependency management?
+ - [ ] 8.2. Declaring your dependencies
+ - [ ] 8.3. Dependency configurations
+ - [ ] 8.4. External dependencies
+ - [ ] 8.5. Repositories
+ - [ ] 8.6. Publishing artifacts
+ - [ ] 8.7. Where to next?
+
 - [ ] 9. Introduction to multi-project builds
 - [ ] 10. Continuous build
 - [ ] 11. Composite builds
